@@ -57,3 +57,9 @@ plugins:
       blog_dir: .
       blog_toc: true
       post_url_format: "{slug}"
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.details
