@@ -13,7 +13,7 @@ jobs:
       # Install Python (fast & cached by GitHub)
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"        # or set python-version-file: ".python-version"
+          python-version: "3.11"        # or set python-version-file: ".python-version"
 
       # Install uv
       - uses: astral-sh/setup-uv@v6
