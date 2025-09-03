@@ -1,1 +1,59 @@
-site_name: My Docs
+site_name: gerardmartinezcanelles.dev
+site_description: Personal blog of Gerard Martínez Canelles
+site_url: https://gerardmartinezcanelles.dev
+site_author: Gerard Martínez Canelles
+repo_url: https://github.com/gerardmartinezcanelles/gerardmartinezcanelles.github.io
+repo_name: gerard-martinez-canelles/gerardmartinezcanelles.github.io
+
+
+nav:
+  - Home: index.md
+  - CV: cv.md
+  - Projects: projects.md
+  - Other Achievements: achievement.md
+theme:
+  name: material
+  logo: assets/logo_black.png
+  favicon: assets/favicon.ico
+  custom_dir: overrides
+  features:
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.tooltips
+    - navigation.tabs
+    - navigation.sections
+    - navigation.footer
+    - navigation.indexes
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - blog:
+      blog_dir: .
+      blog_toc: true
+      post_url_format: "{slug}"
