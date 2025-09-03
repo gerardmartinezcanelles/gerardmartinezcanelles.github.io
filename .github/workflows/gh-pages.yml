@@ -1,3 +1,4 @@
+# .github/workflows/gh-pages.yml
 name: Deploy MkDocs (uv)
 on:
   push: { branches: [ main ] }
@@ -8,8 +9,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      # Install Python (fast & cached by GitHub)
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"        # or set python-version-file: ".python-version"
+
+      # Install uv
       - uses: astral-sh/setup-uv@v6
-        with: { enable-cache: true }
-      - run: uv python install
-      - run: uv sync --locked || uv sync
+        with:
+          enable-cache: true
+
+      # Install project deps (if you have pyproject/uv.lock)
+      - run: uv sync || uv add mkdocs mkdocs-material mkdocs-material-extensions mkdocs-blog-plugin
+
+      # Deploy to gh-pages
       - run: uv run mkdocs gh-deploy --force
