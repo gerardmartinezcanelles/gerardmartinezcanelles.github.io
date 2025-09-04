@@ -57,6 +57,7 @@ plugins:
       blog_dir: .
       blog_toc: true
       post_url_format: "{slug}"
+      archive: false
 
 markdown_extensions:
   - admonition

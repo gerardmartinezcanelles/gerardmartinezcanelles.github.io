@@ -126,8 +126,14 @@ uv run mkdocs serve
 Create the workflow file:
 
 ```bash
+# make the folders (the .github one is hidden)
 mkdir -p .github/workflows
+
+# create/edit the file
+code .github/workflows/gh-pages.yml   # or: nano .github/workflows/gh-pages.yml
 ```
+
+Copy the following content
 
 **`.github/workflows/gh-pages.yml`**
 ```yaml

@@ -6,4 +6,7 @@ commit:
 deploy:
 	uv run mkdocs gh-deploy --force
 
+serve:
+	uv run mkdocs serve	
+
 all: commit deploy
