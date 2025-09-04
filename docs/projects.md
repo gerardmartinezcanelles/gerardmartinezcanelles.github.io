@@ -2,10 +2,15 @@
 
 Here are some of my projects. You can add descriptions, links, and images.
 
-## Project 1
-- Description
-- [GitHub Link](https://github.com/yourusername/project1)
+## World Marathons
+- World Marathons 🏃🏿
+- [URL link](https://worldmarathonsplanner.com/)
 
-## Project 2
-- Description
+
+## ESADE Business Analytics
+- ESADE business analytics material
 - [GitHub Link](https://github.com/yourusername/project2)
+
+## Agents
+- Agents
+- [GitHub Link](https://github.com/yourusername/project3)
