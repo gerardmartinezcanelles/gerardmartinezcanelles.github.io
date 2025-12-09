@@ -1,4 +1,4 @@
-# Welcome 🦊
+# Welcome 😄
 
 This is my personal website! Here you can find my projects, CV and more.
 
