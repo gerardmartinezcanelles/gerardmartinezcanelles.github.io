@@ -17,7 +17,7 @@ I have genuine passion for cycling 🚴, running 🏃 and swimming 🏊 but not 
 
 ## ESADE Business Analytics course 📊
 - Teaching materials for the ESADE Business Analytics course focused on Introduction to Python. Includes notebooks, exercises, and examples to help students build foundational programming and analytical skills.
-- [GitHub Link](https://github.com/gerardmartinezcanelles/Python_for_ESADE)
+- [GitHub Repository](https://github.com/gerardmartinezcanelles/Python_for_ESADE)
 
 
 ## Agents 🤖
