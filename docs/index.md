@@ -1,6 +1,6 @@
 # Welcome 🦊
 
-This is my personal website! Here you can find my CV, projects, and more.
+This is my personal website! Here you can find my projects, CV and more.
 
 The original idea was to keep things professional, but I’ve failed miserably at taking life seriously as a functional adult. So here I am, trying to make the best out of it! 🤷‍♂️
 

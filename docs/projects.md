@@ -3,7 +3,6 @@
 Here are some of my side projects. I genuinely enjoy working on them, and I hope you find them interesting!
 They do not follow any particular pattern or logic but usually revolved around endurance sports 🫀, finance 🏦 and technology 🛰️.
 
-
 I have genuine passion for cycling 🚴, running 🏃 and swimming 🏊 but not triathlon since I can of like them separetly. Do improve in the vertical not in the horizontal, specialization for the win! 💪
 
 
@@ -16,9 +15,9 @@ I have genuine passion for cycling 🚴, running 🏃 and swimming 🏊 but not 
 - [URL link](https://worldmarathonsplanner.com/)
 
 
-## ESADE Business Analytics 📊
-- ESADE business analytics material
-- [GitHub Link](https://github.com/yourusername/project2)
+## ESADE Business Analytics course 📊
+- Teaching materials for the ESADE Business Analytics course focused on Introduction to Python. Includes notebooks, exercises, and examples to help students build foundational programming and analytical skills.
+- [GitHub Link](https://github.com/gerardmartinezcanelles/Python_for_ESADE)
 
 
 ## Agents 🤖
