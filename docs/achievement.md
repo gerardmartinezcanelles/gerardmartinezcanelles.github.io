@@ -3,7 +3,7 @@ Not the papers, not the production pipelines, not the models… but the *real* m
 
 
 - 🦖 Scored **2532** in the Chrome Dino Game (personal record).  
-- 🍕 Ate a **family-sized pizza alone** and still had room for dessert.  
+- I rememeber that day that I was happy, that sunny 30th of February 2020 🥺.
 - ⏰ Snoozed the alarm **7 times in a row** and still made it to work on time.  
 - 💻 Successfully fixed a bug by **adding just one semicolon**.  
 - 🐍 Wrote a Python script called `final_final_really_final.py` only **3 times**.  

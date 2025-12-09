@@ -1,4 +1,4 @@
-# Projects
+# Projects 🚀 
 
 Here are some of my side projects. I genuinely enjoy working on them, and I hope you find them interesting!
 They do not follow any particular pattern or logic but usually revolved around endurance sports 🫀, finance 🏦 and technology 🛰️.
